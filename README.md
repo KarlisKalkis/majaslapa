@@ -1,11 +1,13 @@
 # majaslapa
 
+<style>
 .lnXdpd {
     object-fit: contain;
     object-position: center bottom;
     max-height:100%;
     max-width:100%
 }
+</style>
 
 
 <h1>"Google"</h1>
@@ -18,9 +20,4 @@
 <h4>"Attēli"</h4>
 
 
-.lnXdpd {
-    object-fit: contain;
-    object-position: center bottom;
-    max-height:100%;
-    max-width:100%
-}
+
