@@ -1,5 +1,12 @@
 # majaslapa
 
+.lnXdpd {
+    object-fit: contain;
+    object-position: center bottom;
+    max-height:100%;
+    max-width:100%
+}
+
 
 <h1>"Google"</h1>
 <img class="lnXdpd" alt="Google" height="80" scr="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="259">
